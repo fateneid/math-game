@@ -1,1 +1,1 @@
-# 05-project2-math-game
+# math-game
